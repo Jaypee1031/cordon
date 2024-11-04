@@ -1,0 +1,947 @@
+.home .rectangle-4137 {
+    border-radius: 100px;
+    background: #f8f9fa;
+    margin-right: 0px;
+    width: 40px;
+    height: 40px;
+  }
+  .home .title {
+    margin: 2px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 1.286;
+    color: #000000;
+  }
+  .home .container-13 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home .tab {
+    margin-right: 12px;
+    width: 44px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-decoration: none;
+    color: #000000;
+  }
+  .home .tab-1 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-decoration: none;
+    color: #000000;
+  }
+  .home .tab-2 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-decoration: none;
+    color: #000000;
+  }
+  .home .navigation {
+    background: #51df72;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 0.4px;
+    width: 217px;
+    box-sizing: border-box;
+  }
+  .home .log-in {
+    margin-right: 20.1px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-decoration: none;
+    color: #000000;
+  }
+  .home .sign-in {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-decoration: none;
+    color: #000000;
+  }
+  .home .container-12 {
+    margin: 8px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home .top-bar {
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.12);
+    background: #51df72;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .home .title-1 {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.2;
+    color: #d13232;
+  }
+  .home .description {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .home .container-2 {
+    position: relative;
+    margin: 192px 75.4px 192px 0;
+    display: flex;
+    padding-right: 12.8px;
+    height: 216px;
+    box-sizing: border-box;
+  }
+  .home .basemap-image {
+    background: url('../assets/images/basemap_image.png') 50% / contain no-repeat;
+    width: 800px;
+    height: 600px;
+  }
+  .home .map {
+    display: flex;
+    width: 1000px;
+    height: 600px;
+    box-sizing: border-box;
+    margin-top: 100px;
+  }
+  .home .section {
+    margin: 0 0 0px 0px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home .avatar {
+    border-radius: 50px;
+    background: #f9fafb;
+    margin-right: 40px;
+    width: 100px;
+    height: 100px;
+  }
+  .home .title-2 {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #000;
+  }
+  .home .label-text {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+    color: #000000;
+  }
+  .home .label-normal {
+    border-radius: 2px;
+    border: 0.5px solid rgba(0, 0, 0, 0.1);
+    background: rgba(217, 217, 217, 0.5);
+    display: flex;
+    padding: 1.5px 3.6px 1.5px 3.5px;
+    box-sizing: border-box;
+  }
+  .home .selection {
+    margin-bottom: 12px;
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+  }
+  .home .description-1 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+  }
+  .home .container-3 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .home .container-11 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .home .vector-200 {
+    background: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: -1px;
+    height: 0px;
+  }
+  .home .section-1 {
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.12);
+    background: #51df72;
+    position: absolute;
+    left: 0px;
+    top: 737px;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .home .title-3 {
+    margin-bottom: 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.2;
+    color: #000000;
+  }
+  .home .description-2 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .home .container-4 {
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home .tag {
+    border-radius: 6px 0 6px 0;
+    background: rgba(0, 0, 0, 0.05);
+    width: 16px;
+    height: 24px;
+  }
+  .home .image {
+    background: rgba(217, 217, 217, 0.5);
+    width: 340px;
+    height: 340px;
+    box-sizing: border-box;
+  }
+  .home .card {
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    width: 340px;
+    height: 340px;
+    box-sizing: border-box;
+  }
+  .home .tag-1 {
+    border-radius: 6px 0 6px 0;
+    background: rgba(0, 0, 0, 0.05);
+    width: 16px;
+    height: 24px;
+  }
+  .home .image-1 {
+    background: rgba(217, 217, 217, 0.5);
+    width: 340px;
+    height: 340px;
+    box-sizing: border-box;
+  }
+  .home .card-1 {
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    width: 340px;
+    height: 340px;
+    box-sizing: border-box;
+  }
+  .home .tag-2 {
+    border-radius: 6px 0 6px 0;
+    background: rgba(0, 0, 0, 0.05);
+    width: 16px;
+    height: 24px;
+  }
+  .home .image-2 {
+    background: rgba(217, 217, 217, 0.5);
+    width: 340px;
+    height: 340px;
+    box-sizing: border-box;
+  }
+  .home .card-2 {
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    width: 340px;
+    height: 340px;
+    box-sizing: border-box;
+  }
+  .home .list {
+    display: flex;
+    flex-direction: row;
+    column-gap: 40px;
+    width: 1100px;
+    box-sizing: border-box;
+  }
+  .container {
+    max-width: 1200px; /* Set a maximum width for the container */
+    margin: 0 auto; /* Center the container */
+    padding: 20px; /* Add some padding */
+}
+
+.list {
+    display: flex; /* Use flexbox for layout */
+    gap: 20px; /* Space between cards */
+}
+
+.card, .card-1, .card-2 {
+    flex: 1; /* Allow cards to grow equally */
+    border: 1px solid #ddd; /* Add a border for visibility */
+    border-radius: 8px; /* Rounded corners */
+    overflow: hidden; /* Prevent overflow of child elements */
+}
+
+.images, .image-1, .image-2 {
+    position: relative; /* Positioning context for tag elements */
+    width: 100%; /* Full width */
+    height: 200px; /* Fixed height for images */
+}
+
+.images img, .image-1 img, .image-2 img {
+    width: 100%; /* Make images fill the container */
+    height: 100%; /* Make images fill the height */
+    object-fit: cover; /* Cover the container while maintaining aspect ratio */
+}
+
+.tag, .tag-1, .tag-2 {
+    position: absolute; /* Position the tag absolutely */
+    bottom: 10px; /* Position it at the bottom */
+    left: 10px; /* Add some spacing */
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    color: white; /* White text color */
+    padding: 5px; /* Padding for the tag */
+    border-radius: 5px; /* Rounded corners */
+}
+  .home .vector-2001 {
+    background: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 0px;
+  }
+  .home .title-4 {
+    margin-bottom: 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.2;
+    color: #000000;
+  }
+  .home .description-3 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .home .container-5 {
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home .image-3 {
+    background: rgba(217, 217, 217, 0.5);
+    width: 100px;
+    height: 100px;
+  }
+  .home .image-container {
+    margin-right: 16px;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+  .home .title-5 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .home .subtitle {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .home .frame-427318906 {
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .home .article {
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-right: 40px;
+    display: flex;
+    flex-direction: row;
+    padding: 15px 0 15px 15px;
+    width: 530px;
+    box-sizing: border-box;
+  }
+  .home .image-4 {
+    background: rgba(217, 217, 217, 0.5);
+    width: 100px;
+    height: 100px;
+  }
+  .home .image-container-1 {
+    margin-right: 16px;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+  .home .title-6 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .home .subtitle-1 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .home .frame-4273189061 {
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .home .article-1 {
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: row;
+    padding: 15px 17.9px 15px 15px;
+    box-sizing: border-box;
+  }
+  .home .row {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home .image-5 {
+    background: rgba(217, 217, 217, 0.5);
+    width: 100px;
+    height: 100px;
+  }
+  .home .image-container-2 {
+    margin-right: 16px;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+  .home .title-7 {
+    margin-bottom: 8px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .home .subtitle-2 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .home .frame-4273189062 {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .home .article-2 {
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: row;
+    padding: 15px 0 15px 15px;
+    width: 1100px;
+    box-sizing: border-box;
+  }
+  .home .row-1 {
+    display: flex;
+    width: 1100px;
+    box-sizing: border-box;
+  }
+  .home .list-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home .container-10 {
+    position: relative;
+    top: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .home .vector-2002 {
+    background: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 0px;
+  }
+  .home .title-8 {
+    margin-bottom: 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.2;
+    color: #000000;
+  }
+  .home .description-4 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .home .container-6 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .home .vector-2003 {
+    background: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 0px;
+  }
+
+  .home .title-9 {
+    margin-bottom: 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.2;
+    color: #000000;
+  }
+  .home .description-5 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .home .container-7 {
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home .title-10 {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .home .yaxis {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .home .graph {
+    margin-bottom: 12px;
+    width: 1060px;
+    height: 288px;
+  }
+  .home .xaxis {
+    align-self: flex-end;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .home .container-9 {
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    padding: 19px;
+    box-sizing: border-box;
+  }
+  .home .container-8 {
+    margin-bottom: 60px;
+    display: flex;
+    top: 400px;
+    box-sizing: border-box;
+  }
+  .home .title-11 {
+    margin-bottom: 4px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .home .data {
+    margin-bottom: 4px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 1.286;
+    color: #000000;
+  }
+  .home .change {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .home .metric {
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0 15px 15px;
+    width: 540px;
+    box-sizing: border-box;
+  }
+  .home .title-12 {
+    margin-bottom: 4px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .home .data-1 {
+    margin-bottom: 4px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 1.286;
+    color: #000000;
+  }
+  .home .change-1 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .home .metric-1 {
+    border-radius: 6px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0 15px 15px;
+    width: 540px;
+    box-sizing: border-box;
+  }
+  .home .list-2 {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .home .container-1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top: 400px;
+    box-sizing: border-box;
+  }
+  .home .vector-2004 {
+    background: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 0px;
+  }
+  .home .title-13 {
+    margin-bottom: 126px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+    color: #000000;
+  }
+  .home .rectangle-3343 {
+    border-radius: 100px;
+    background: #FFFFFF;
+    width: 20px;
+    height: 4px;
+  }
+  .home .rectangle-3344 {
+    border-radius: 100px;
+    background: rgba(0, 0, 0, 0.3);
+    width: 4px;
+    height: 4px;
+  }
+  .home .rectangle-3347 {
+    border-radius: 100px;
+    background: rgba(0, 0, 0, 0.3);
+    width: 4px;
+    height: 4px;
+  }
+  .home .rectangle-3340 {
+    border-radius: 100px;
+    background: rgba(0, 0, 0, 0.3);
+    width: 4px;
+    height: 4px;
+  }
+  .home .pagination {
+    display: flex;
+    flex-direction: row;
+    column-gap: 4px;
+    width: 44px;
+    box-sizing: border-box;
+  }
+  .home .image-6 {
+    border-radius: 6px;
+    background: rgba(217, 217, 217, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 138px 0 8px 0;
+    width: 1100px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .home .image-container-3 {
+    display: flex;
+    width: 1100px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .home .vector-2005 {
+    background: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 0px;
+  
+  }
+  .home .image-8 {
+    position: absolute;
+    left: 50%;
+    top: -404px;
+    translate: -50% 0;
+    width: 1100px;
+    height: 1100px;
+  }
+  .home .shape {
+    width: 16px;
+    height: 21.3px;
+  }
+  .home .ic-location {
+    position: relative;
+    margin-bottom: 9.7px;
+    display: flex;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+  }
+  .home .title-14 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.375;
+    color: #000000;
+  }
+  .home .image-7 {
+    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.05);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 123px 0 116px 0;
+    width: 1100px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .home .map-container {
+    display: flex;
+    width: 1100px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .home .vector-2006 {
+    background: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 0px;
+  }
+  .home .title-15 {
+    margin-right: 14px;
+    width: 99px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .home .title-16 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .home .title-17 {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .home .section-4 {
+    margin-left: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .home {
+    background: linear-gradient(180deg, #FFFFFF, #999999);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 96px 10px;
+    width: 100vw; /* Set width to 100% of viewport width */
+    height: 100vh; /* Set height to 100% of viewport height */
+    box-sizing: border-box;
+    margin: 0; /* Remove any default margins */
+    justify-content: space-between;
+  }

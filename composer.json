@@ -1,0 +1,14 @@
+{
+    "name": "jbmanaois/mywebsitecordon",
+    "description": "My Website Cordon",
+    "authors": [
+        {
+            "name": "Julius Brian Manaois",
+            "email": "your_email@example.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
